@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using LeagueSharp.Common;
+using EloBuddy;
+using EloBuddy.SDK;
 
 namespace TheCheater
 {
